@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.website-logo-img {
+  width: 150px;
+  height: 40px;
+}
+
+.home-products-cart-options {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+}

@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+
+.elements-bg-container {
+  display: flex;
+}
+
+.clothes-that-get-you-noticed-img {
+  width: 50%;
+}
